@@ -44,7 +44,7 @@ https://www.youtube.com/watch?v=b61kcgfOm_4  <-- Copy and paste this url into go
 for exact setup for the bot
 ```
 
-### 2. Download The Luna Nuker Code 
+### 2. Download The Sudo Nuker Code 
 ```
 Now download Luna Nuker and extract the file. Then open the how to use.txt and 
 that will explain how to edit the config correctly.
@@ -54,7 +54,7 @@ that will explain how to edit the config correctly.
 To download the modules go into the folder and open the Installer.bat
 and this will install all the required modules for you
 ```
-### 4. Open The LunaNuker.py
+### 4. Open The main.py
 ```
 Once you have opened the Lunanuker.py you should be presented with a terminal that 
 displays the Luna Bot commands
