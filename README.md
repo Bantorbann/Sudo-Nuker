@@ -1,9 +1,9 @@
 <h1 align="center">
-  Luna Nuker ☢️
+  Sudo Nuker ☢️
 </h1>
 
 <h2 align="center">
-  Luna Nuker is a tool that allows you to nuke any server that you have admin perms in!
+  Sudo Nuker is a tool that allows you to nuke any server that you have admin perms in!
 </h2>
 
 <h3 align="center">
